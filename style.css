@@ -51,6 +51,10 @@ body{
     font-size: 50px;
 }
 
+.portfolio .card{
+    box-shadow: 15px 15xp 40px rgba(1,0,0,0.15);
+}
+
 
 
 @media only screen and (min-width: 768px) and (max-width: 991px){
@@ -58,6 +62,12 @@ body{
         bottom: 370px;
     }
     .carousel-caption p{
+        width: 100%;
+    }
+    .card{
+        margin-bottom: 30px;
+    }
+    .img-area img{
         width: 100%;
     }
 }
@@ -80,4 +90,11 @@ body{
         line-height: 1.6;
         font-size: 12px;
     }
+    .about-text{
+        padding-top: 50px;
+    }
+    .card{
+        margin-bottom: 30px;
+    }
+
 }
