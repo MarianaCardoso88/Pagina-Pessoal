@@ -124,6 +124,11 @@ body{
     background-size: cover;
 }
 
+.chapada{
+    background-image: url(img/bandeiraBrasil.jpg);
+    background-size: cover;
+}
+
 #galeria .col-lg-4{
     margin: 0 !important;
     padding: 25px;
