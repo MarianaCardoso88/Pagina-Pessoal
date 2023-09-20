@@ -119,6 +119,11 @@ body{
     background-size: cover;
 }
 
+.canada{
+    background-image: url(img/bandeiraNovaZelandia.jpg);
+    background-size: cover;
+}
+
 #galeria .col-lg-4{
     margin: 0 !important;
     padding: 25px;
