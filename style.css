@@ -55,7 +55,9 @@ body{
     box-shadow: 15px 15xp 40px rgba(1,0,0,0.15);
 }
 
-
+.descricao{
+    text-align: justify;
+}
 
 @media only screen and (min-width: 768px) and (max-width: 991px){
     .carousel-caption{
